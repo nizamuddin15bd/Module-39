@@ -7,3 +7,4 @@ const student = {
 }
 student.makeMovie('shevly')
 // document.getElementById('name');
+fetch
