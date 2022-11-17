@@ -12,3 +12,8 @@ const getCookie = name => {
         return cookieNameValue[1];
     }
 }
+
+
+// cookie hocca
+// Browser  caila kecu inpormation rakta pare.stor kora rakha dorkar hola surver a rakha dai
+// 1.cookies deya rakha jai
